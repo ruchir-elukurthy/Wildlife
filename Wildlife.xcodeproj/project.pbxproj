@@ -52,8 +52,8 @@
 		BA96C8F826C215A900F090F2 /* Wildlife */ = {
 			isa = PBXGroup;
 			children = (
-				BA96C8F926C215A900F090F2 /* WildlifeApp.swift */,
-				BA96C8FB26C215A900F090F2 /* ContentView.swift */,
+				BA96C90B26C24F4100F090F2 /* View */,
+				BA96C90A26C24F3500F090F2 /* App */,
 				BA96C8FD26C215AB00F090F2 /* Assets.xcassets */,
 				BA96C90226C215AB00F090F2 /* Info.plist */,
 				BA96C8FF26C215AB00F090F2 /* Preview Content */,
@@ -67,6 +67,22 @@
 				BA96C90026C215AB00F090F2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BA96C90A26C24F3500F090F2 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				BA96C8F926C215A900F090F2 /* WildlifeApp.swift */,
+				BA96C8FB26C215A900F090F2 /* ContentView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		BA96C90B26C24F4100F090F2 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
