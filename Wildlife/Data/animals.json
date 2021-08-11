@@ -1,0 +1,54 @@
+[
+  {
+    "id" : "lion",
+    "name" : "Lion",
+    "headline" : "Lion, (Panthera leo), large, powerfully built cat (family Felidae) that is second in size only to the tiger. The proverbial 'king of beasts.'",
+    "description" : "Tions are most active at night and live in a variety of habitats but prefer grassland, savanna, dense scrub, and open woodland. Historically, they ranged across much of Europe, Asia, and Africa, but now they are found mainly in parts of Africa south of the Sahara. An isolated population of about 650 Asiatic lions constitute a slightly smaller race that lives under strict protection in India’s Gir National Park and Wildlife Sanctuary. The lion is a well-muscled cat with a long body, large head, and short legs. Size and appearance vary considerably between the sexes. The male’s outstanding characteristic is his mane, which varies between different individuals and populations.",
+    "link" : "https://www.britannica.com/animal/lion",
+    "image" : "lion",
+    "fact" : [
+      "Female lions raise the cubs and are also the primary hunters.",
+      "Lions are the only cats that live in groups. A pride, can be up to 30 lions, depending on how much food and water is available.",
+      "Without their coats, lion and tiger bodies are so similar that only experts can tell them apart."
+    ]
+  },
+  {
+    "id" : "zebra",
+    "name" : "Zebra",
+    "headline" : "Each zebra has its own unique pattern of distinctive stripes, just as humans have their own unique pattern of fingerprints. Zebras stick together in herds.",
+    "description" : "Zebras are African equines with distinctive black-and-white striped coats. There are three extant species: the Grévy's zebra (Equus grevyi), plains zebra (E. quagga) and the mountain zebra (E. zebra). Their stripes come in different patterns, unique to each individual. Several theories have been proposed for the function of these stripes, with most evidence supporting them as a form of protection from biting flies. Zebras share the genus Equus with horses and asses, and together they are the only living members of the family Equidae. Zebras belong to the subgenus Hippotigris.",
+    "link" : "https://www.britannica.com/animal/zebra",
+    "image" : "zebra",
+    "fact" : [
+      "The zebra is actually mostly covered in white and striped with black or dark brown stripes, but underneath their coat is black skin.",
+      "Zebras are wild animals that cannot be domesticated.",
+      "A group of zebras is called a 'Dazzle’."
+    ]
+  },
+  {
+    "id" : "rhino",
+    "name" : "Rhinoceros",
+    "headline" : "Rhinoceros any of five or six species of giant horn-bearing herbivores that include some of the largest living land mammals. Only African and Asian elephants are taller at the shoulder than the two largest rhinoceros species.",
+    "description" : "A rhinoceros (/raɪˈnɒsərəs/, from Greek rhinokerōs, meaning 'nose-horned', from rhis, meaning 'nose', and keras, meaning 'horn'), commonly abbreviated to rhino, is one of any five extant species of odd-toed ungulates in the family Rhinocerotidae, as well as any of the numerous extinct species therein. Two of the extant species are native to Africa, and three to Southern Asia.",
+    "link" : "https://www.britannica.com/animal/rhinoceros-mammal",
+    "image" : "rhino",
+    "fact" : [
+      "The horns of a rhino are not bone and are not attached to the skull. It is made from keratin. It’s the same thing that our fingernails are made from.",
+      "The largest of the five species is the white rhino, which can grow to 1.8m tall and and weigh a massive 2,500kg – that’s the weight of 30 men!",
+      "Rhino horns grow as much as three inches a year, and have been known to grow up to five feet long."
+    ]
+  },
+  {
+    "id" : "elephant",
+    "name" : "Elephant",
+    "headline" : "Elephants are the largest land mammals on earth and have distinctly massive bodies, large ears, and long trunks. They use their trunks to pick up objects, trumpet warnings, greet other elephants, or suck up water for drinking or bathing, among other uses.",
+    "description" : "Elephants are mammals of the family Elephantidae and the largest existing land animals. Three species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant. Elephantidae is the only surviving family of the order Proboscidea; extinct members include the mastodons. The family Elephantidae also contains several now-extinct groups, including the mammoths and straight-tusked elephants. African elephants have larger ears and concave backs, whereas Asian elephants have smaller ears, and convex or level backs. Distinctive features of all elephants include a long trunk, tusks, large ear flaps, massive legs, and tough but sensitive skin.",
+    "link" : "https://www.britannica.com/animal/elephant",
+    "image" : "elephant",
+    "fact" : [
+      "Elephants can recognize themselves in the mirror. They join humans, apes, and dolphins as the only animals with self-awareness.",
+      "Female elephants have the longest pregnancy of any mammal. It’s a lengthy 22 months before baby elephants are ready to be born.",
+      "Elephants make sounds that we can’t even hear. Some of their calls are so low, they are below the range of human hearing."
+    ]
+  },
+]
