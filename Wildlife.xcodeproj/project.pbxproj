@@ -12,7 +12,6 @@
 		BA8DB05826C33B4100D9D8D4 /* cheetah.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BA8DB05426C3367B00D9D8D4 /* cheetah.mp4 */; };
 		BA8DB05926C33B4400D9D8D4 /* crocodile.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BA8DB05626C3367C00D9D8D4 /* crocodile.mp4 */; };
 		BA8DB05A26C33B4700D9D8D4 /* elephant.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BA8DB05326C3367B00D9D8D4 /* elephant.mp4 */; };
-		BA8DB05B26C33B4900D9D8D4 /* giraffe.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BA8DB05526C3367C00D9D8D4 /* giraffe.mp4 */; };
 		BA8DB05E26C3960300D9D8D4 /* VideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA8DB05D26C3960300D9D8D4 /* VideoView.swift */; };
 		BA8DB06026C3963000D9D8D4 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA8DB05F26C3963000D9D8D4 /* MainView.swift */; };
 		BA96C8FA26C215A900F090F2 /* WildlifeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA96C8F926C215A900F090F2 /* WildlifeApp.swift */; };
@@ -26,7 +25,6 @@
 		BA8DB05226C3366400D9D8D4 /* zebra.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = zebra.mp4; sourceTree = "<group>"; };
 		BA8DB05326C3367B00D9D8D4 /* elephant.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = elephant.mp4; sourceTree = "<group>"; };
 		BA8DB05426C3367B00D9D8D4 /* cheetah.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = cheetah.mp4; sourceTree = "<group>"; };
-		BA8DB05526C3367C00D9D8D4 /* giraffe.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = giraffe.mp4; sourceTree = "<group>"; };
 		BA8DB05626C3367C00D9D8D4 /* crocodile.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = crocodile.mp4; sourceTree = "<group>"; };
 		BA8DB05D26C3960300D9D8D4 /* VideoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoView.swift; sourceTree = "<group>"; };
 		BA8DB05F26C3963000D9D8D4 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -56,7 +54,6 @@
 				BA8DB05426C3367B00D9D8D4 /* cheetah.mp4 */,
 				BA8DB05626C3367C00D9D8D4 /* crocodile.mp4 */,
 				BA8DB05326C3367B00D9D8D4 /* elephant.mp4 */,
-				BA8DB05526C3367C00D9D8D4 /* giraffe.mp4 */,
 			);
 			path = Video;
 			sourceTree = "<group>";
@@ -188,7 +185,6 @@
 				BA8DB05A26C33B4700D9D8D4 /* elephant.mp4 in Resources */,
 				BA96C90126C215AB00F090F2 /* Preview Assets.xcassets in Resources */,
 				BA8DB05726C33B3E00D9D8D4 /* zebra.mp4 in Resources */,
-				BA8DB05B26C33B4900D9D8D4 /* giraffe.mp4 in Resources */,
 				BA96C8FE26C215AB00F090F2 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
