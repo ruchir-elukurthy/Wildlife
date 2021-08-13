@@ -14,7 +14,7 @@
   },
   {
     "id" : "zebra",
-    "name" : "Zebra",
+    "name" : "Deer",
     "headline" : "Each zebra has its own unique pattern of distinctive stripes, just as humans have their own unique pattern of fingerprints. Zebras stick together in herds.",
     "description" : "Zebras are African equines with distinctive black-and-white striped coats. There are three extant species: the Grévy's zebra (Equus grevyi), plains zebra (E. quagga) and the mountain zebra (E. zebra). Their stripes come in different patterns, unique to each individual. Several theories have been proposed for the function of these stripes, with most evidence supporting them as a form of protection from biting flies. Zebras share the genus Equus with horses and asses, and together they are the only living members of the family Equidae. Zebras belong to the subgenus Hippotigris.",
     "link" : "https://www.britannica.com/animal/zebra",
@@ -27,7 +27,7 @@
   },
   {
     "id" : "rhino",
-    "name" : "Rhinoceros",
+    "name" : "Giraffe",
     "headline" : "Rhinoceros any of five or six species of giant horn-bearing herbivores that include some of the largest living land mammals. Only African and Asian elephants are taller at the shoulder than the two largest rhinoceros species.",
     "description" : "A rhinoceros (/raɪˈnɒsərəs/, from Greek rhinokerōs, meaning 'nose-horned', from rhis, meaning 'nose', and keras, meaning 'horn'), commonly abbreviated to rhino, is one of any five extant species of odd-toed ungulates in the family Rhinocerotidae, as well as any of the numerous extinct species therein. Two of the extant species are native to Africa, and three to Southern Asia.",
     "link" : "https://www.britannica.com/animal/rhinoceros-mammal",
