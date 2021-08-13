@@ -10,5 +10,6 @@ import SwiftUI
 struct Animal_Info: Codable, Identifiable {
     var id: String
     var name: String
+    var headline: String
 }
 

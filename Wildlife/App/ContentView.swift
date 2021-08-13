@@ -8,9 +8,19 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    let animal: [Animal_Info] = Bundle.main.decode("animals.json")
+    
     var body: some View {
-        Text("Homepage")
-            .padding()
+        NavigationView {
+            List {
+                CoverImageView()
+                    .frame(height: 300)
+                ForEach (animal) { animal in
+                    AnimalListView(animal: animal)
+                }
+            }
+        }
     }
 }
 

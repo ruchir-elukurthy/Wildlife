@@ -21,6 +21,7 @@
 		BA9D379726C5D40600861BD4 /* CoverImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9D379626C5D40600861BD4 /* CoverImageView.swift */; };
 		BA9D379A26C5D93200861BD4 /* CoverImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9D379926C5D93200861BD4 /* CoverImageModel.swift */; };
 		BA9D379C26C5DA6400861BD4 /* BundleDecodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9D379B26C5DA6400861BD4 /* BundleDecodable.swift */; };
+		BA9D37A126C6107100861BD4 /* AnimalListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9D37A026C6107100861BD4 /* AnimalListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		BA9D379626C5D40600861BD4 /* CoverImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImageView.swift; sourceTree = "<group>"; };
 		BA9D379926C5D93200861BD4 /* CoverImageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImageModel.swift; sourceTree = "<group>"; };
 		BA9D379B26C5DA6400861BD4 /* BundleDecodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleDecodable.swift; sourceTree = "<group>"; };
+		BA9D37A026C6107100861BD4 /* AnimalListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 			isa = PBXGroup;
 			children = (
 				BA9D379626C5D40600861BD4 /* CoverImageView.swift */,
+				BA9D37A026C6107100861BD4 /* AnimalListView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA9D37A126C6107100861BD4 /* AnimalListView.swift in Sources */,
 				BA8DB05E26C3960300D9D8D4 /* VideoView.swift in Sources */,
 				BA9D379C26C5DA6400861BD4 /* BundleDecodable.swift in Sources */,
 				BA9D379A26C5D93200861BD4 /* CoverImageModel.swift in Sources */,
