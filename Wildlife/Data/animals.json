@@ -27,7 +27,7 @@
   },
   {
     "id" : "rhino",
-    "name" : "Giraffe",
+    "name" : "Rhino",
     "headline" : "Rhinoceros any of five or six species of giant horn-bearing herbivores that include some of the largest living land mammals. Only African and Asian elephants are taller at the shoulder than the two largest rhinoceros species.",
     "description" : "A rhinoceros (/raɪˈnɒsərəs/, from Greek rhinokerōs, meaning 'nose-horned', from rhis, meaning 'nose', and keras, meaning 'horn'), commonly abbreviated to rhino, is one of any five extant species of odd-toed ungulates in the family Rhinocerotidae, as well as any of the numerous extinct species therein. Two of the extant species are native to Africa, and three to Southern Asia.",
     "link" : "https://www.britannica.com/animal/rhinoceros-mammal",
@@ -49,6 +49,19 @@
       "Elephants can recognize themselves in the mirror. They join humans, apes, and dolphins as the only animals with self-awareness.",
       "Female elephants have the longest pregnancy of any mammal. It’s a lengthy 22 months before baby elephants are ready to be born.",
       "Elephants make sounds that we can’t even hear. Some of their calls are so low, they are below the range of human hearing."
+    ]
+  },
+  {
+    "id" : "giraffe",
+    "name" : "Giraffe",
+    "headline" : "At an average height of around 5 m (16-18 ft.), the giraffe is the tallest land animal in the world. Giraffes live primarily in savanna areas in the sub-Saharan region of Africa.",
+    "description" : "The giraffe is an African artiodactyl mammal, the tallest living terrestrial animal and the largest ruminant. It is traditionally considered to be one species, Giraffa camelopardalis, with nine subspecies. However, the existence of up to eight extant giraffe species has been described, based upon research into the mitochondrial and nuclear DNA, as well as morphological measurements of Giraffa. Seven other species are extinct, prehistoric species known from fossils.\n\nThe giraffe's chief distinguishing characteristics are its extremely long neck and legs, its horn-like ossicones, and its distinctive coat patterns.",
+    "link" : "https://www.britannica.com/animal/giraffe",
+    "image" : "giraffe",
+    "fact" : [
+      "Giraffes only need 5 to 30 minutes of sleep in a 24-hour period! They often achieve that in quick naps that may last only a minute or two at a time.",
+      "They can run as fast as 35 miles an hour over short distances, or cruise at 10 mph over longer distances.",
+      "Within just 10 hours of their birth, baby giraffes can run with their families without struggling."
     ]
   },
 ]

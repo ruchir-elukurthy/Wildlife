@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BA63707126C3A4880054F31C /* animals.json in Resources */ = {isa = PBXBuildFile; fileRef = BA63707026C3A4880054F31C /* animals.json */; };
+		BA8B62AE26C7557F001E7194 /* AnimalDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA8B62AD26C7557F001E7194 /* AnimalDetailView.swift */; };
 		BA8DB05726C33B3E00D9D8D4 /* zebra.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BA8DB05226C3366400D9D8D4 /* zebra.mp4 */; };
 		BA8DB05826C33B4100D9D8D4 /* cheetah.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BA8DB05426C3367B00D9D8D4 /* cheetah.mp4 */; };
 		BA8DB05926C33B4400D9D8D4 /* crocodile.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BA8DB05626C3367C00D9D8D4 /* crocodile.mp4 */; };
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		BA63707026C3A4880054F31C /* animals.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = animals.json; sourceTree = "<group>"; };
+		BA8B62AD26C7557F001E7194 /* AnimalDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalDetailView.swift; sourceTree = "<group>"; };
 		BA8DB05226C3366400D9D8D4 /* zebra.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = zebra.mp4; sourceTree = "<group>"; };
 		BA8DB05326C3367B00D9D8D4 /* elephant.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = elephant.mp4; sourceTree = "<group>"; };
 		BA8DB05426C3367B00D9D8D4 /* cheetah.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = cheetah.mp4; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 			children = (
 				BA9D379626C5D40600861BD4 /* CoverImageView.swift */,
 				BA9D37A026C6107100861BD4 /* AnimalListView.swift */,
+				BA8B62AD26C7557F001E7194 /* AnimalDetailView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 				BA9D379726C5D40600861BD4 /* CoverImageView.swift in Sources */,
 				BA96C8FC26C215A900F090F2 /* ContentView.swift in Sources */,
 				BA96C8FA26C215A900F090F2 /* WildlifeApp.swift in Sources */,
+				BA8B62AE26C7557F001E7194 /* AnimalDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
